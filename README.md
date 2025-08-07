@@ -6,7 +6,7 @@ A small sql project I did using Postgresql. I have analyzed different situations
 
 Structure:
 *months with the most orders;
-*best selling pizzas
-*revenue per pizza and total revenue
-*customers per day
-*peak hours
+*best selling pizzas;
+*revenue per pizza and total revenue;
+*customers per day;
+*peak hours;
